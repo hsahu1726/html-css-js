@@ -1,0 +1,74 @@
+*{
+
+    padding: 0px;
+    margin: 0px;
+}
+
+
+#one{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+#navbar{
+    
+    background-color: #0f1111;
+    border: 5px solid white;
+    height: 60px;
+}
+
+#three{
+    color: #f08804;
+    background-color: #0f1111;
+    text-decoration: none;
+    height: 25px;
+    margin-right: 200px;
+    margin-left: 150px;
+
+}
+a:visited{
+    color: orange;
+}
+
+#four{
+    background-color: #0f1111;
+    color: white;
+    text-decoration: none;
+    margin-right: 200px;
+}
+input{
+    background-color: white;
+    width: 170;
+}
+button{
+    background-color: #f08804;
+    color: white;
+}
+
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+footer{
+    background-color: #0f1111;
+    text-align: center;
+    color: white;
+}
+
+#div1{
+    background-color: rgba(255,0,0,0.5);
+}
+#div2{
+    background-color: rgba(0,255,0,0.5);
+}
+#div3{
+    background-color: rgba(0,0,255,0.5);
+}
+
+#content{
+    height: 589px;
+}
